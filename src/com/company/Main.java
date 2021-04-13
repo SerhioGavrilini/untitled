@@ -18,6 +18,6 @@ public class Main {
             }
         }
     }
-        System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a)); // hello
     }
 }
